@@ -5,8 +5,8 @@
 ### hi， I'm echoxxzhang 👋
 
 - 🌱 I’m currently learning CSAPP and CS61A ...
-- 🤔 i'm currently learning and sharing on [blog](https://www.yuque.com/zehao-59ab2), welcome- 
-- 💬 How to reach me with echoxxzhang@163.com...
+- 🤔 i'm learning and sharing on [blog](https://www.yuque.com/zehao-59ab2), welcome- 
+- 💬 reach me with echoxxzhang@163.com...
 
 
 
