@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- 🌱 I’m currently learning csapp and cs61A ...
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me with echoxxzhang@163.com...
+
+
