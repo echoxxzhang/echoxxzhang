@@ -4,7 +4,7 @@
 
 ### hi， I'm echoxxzhang 👋
 
-- 🌱 I’m currently learning CSAPP and CS61A ...
+- 🌱 I’m currently learning of Java
 - 🤔 i'm learning and sharing on [blog](https://www.yuque.com/zehao-59ab2), welcome- 
 - 💬 reach me with echoxxzhang@163.com...
 
